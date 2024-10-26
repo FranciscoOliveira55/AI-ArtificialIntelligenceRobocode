@@ -1,0 +1,33 @@
+# Ignore build directories
+/build/
+/out/
+
+# Ignore IDE settings
+.idea/
+*.iml
+.vscode/
+
+
+# Ignore OS-specific files
+*.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore dependency directories
+/node_modules/
+/.venv/
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.dll
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Project exclude paths
+/target/
